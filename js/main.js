@@ -1,3 +1,4 @@
+// 簡單的JS語法
 const modal = document.querySelector('.modal')
 const loginBtn = document.querySelector('.login-btn')
 const closeBtn = document.querySelector('.close')

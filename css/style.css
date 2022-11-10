@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;600;700&display=swap');
+/* 載入 Google WebFont */
 
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
+/* 清除預設 */
 
 html,
 body {
